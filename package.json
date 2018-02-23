@@ -1,0 +1,16 @@
+{
+    "id": "custom-office365-owa",
+    "name": "Custom Office 365 Outlook Web App",
+    "version": "0.0.1",
+    "description": "Custom Office 365 Outlook Web App",
+    "main": "index.js",
+    "author": "Dominik Harz <dominik.harz@gmail.com>",
+    "repository": "https://github.com/nud3l/recipe-custom-office365-owa",
+    "license": "MIT",
+    "config": {
+        "hasNotificationSound": true,
+        "hasDirectMessages": true,
+        "hasIndirectMessages": true,
+        "hasCustomUrl": true
+    }
+}
